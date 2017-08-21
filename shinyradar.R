@@ -2,7 +2,7 @@
 ## Shiny APP for radar plots
 rm(list=ls())
 library(shiny)
-source("/Users/sallatoikkanen/Desktop/Reidari/github_radarplot/radarplot.R")
+source("/radarplot.R")
 
 ui <- fluidPage(
   ## app title
